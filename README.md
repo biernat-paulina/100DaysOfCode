@@ -1,2 +1,2 @@
 # 100DaysOfCode
-This is my 100 day of code journey. 
+This is a log of my 100 days of code journey. 
