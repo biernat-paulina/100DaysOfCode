@@ -1,16 +1,23 @@
 # 100DaysOfCode
 This is a log of my 100 days of code journey where I will provide a brief description of what I've done, on a daily basis. 
 
-# Projects  
+## Projects  
  
-# My daily log (15 December 2020 - 24 March 2021)
+## My daily log (15 December 2020 - 24 March 2021)
 Day 1: Created a simple shopping list
+
 Day 2: Created a basic JavaScript Calculator
+
 Day 3: Created a Rock Paper Scissors Lizard Spock game
+
 Day 4: Made some CSS improvements to the game of Rock Paper Scissors Lizard Spock
+
 Day 5: Created a Spa website landing page
+
 Day 6: Created a subscription form on MailChimp and connected it with the spa website
+
 Day 7: Added a ‘Services’ section to the spa website and created a new repository with this readme file to document my 100daysofcode journey
+
 Day 8: 
 Day 9: 
 Day 10: 
