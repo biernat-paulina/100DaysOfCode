@@ -18,7 +18,7 @@ Day 6: Created a subscription form on MailChimp and connected it with the spa we
 
 Day 7: Added a ‘Services’ section to the spa website and created a new repository with this readme file to document my 100daysofcode journey
 
-Day 8: 
+Day 8: Carried out some on-page SEO on the website. 
 
 Day 9: 
 
