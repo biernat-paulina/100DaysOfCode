@@ -20,13 +20,13 @@ Day 7: Added a ‘Services’ section to the spa website and created a new repos
 
 Day 8: Carried out some on-page SEO on the website. 
 
-Day 9: 
+Day 9: CHRISTMAS EVE
 
-Day 10: 
+Day 10: CHRISTMAS DAY
 
-Day 11: 
+Day 11: BOXING DAY
 
-Day 12: 
+Day 12: Adding more sections to spa website and ensuring that website is responsive
 
 Day 13: 
 
