@@ -28,7 +28,7 @@ Day 11: BOXING DAY
 
 Day 12: Adding more sections to spa website and ensuring that website is responsive
 
-Day 13: 
+Day 13: Finished the spa website - coded the final sections and added some image animations.
 
 Day 14: 
 
