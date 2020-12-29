@@ -30,7 +30,7 @@ Day 12: Adding more sections to spa website and ensuring that website is respons
 
 Day 13: Finished the spa website - coded the final sections and added some image animations.
 
-Day 14: 
+Day 14: Wireframing - read plenty of resources about it and created a draft one.
 
 Day 15: 
 
