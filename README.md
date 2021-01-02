@@ -32,13 +32,13 @@ Day 13: Finished the spa website - coded the final sections and added some image
 
 Day 14: Wireframing - read plenty of resources about it and created a draft one.
 
-Day 15: 
+Day 15: Did some more wireframing off the record 
 
-Day 16: 
+Day 16: Started to read Introduction to JavaScript programming by Marijn Haverbeke
 
-Day 17: 
+Day 17: Read more of the JavaScript book by Marijn Haverbeke
 
-Day 18: 
+Day 18: Created expanding cards with html, css and JavaScript
 
 Day 19: 
 
