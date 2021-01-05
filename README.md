@@ -40,11 +40,11 @@ Day 17: Read more of the JavaScript book by Marijn Haverbeke
 
 Day 18: Created expanding cards with html, css and JavaScript
 
-Day 19: 
+Day 19: Progress steps creation 
 
-Day 20: 
+Day 20: Created a rotating navigation bar
 
-Day 21: 
+Day 21: Hidden search widget
 
 Day 22: 
 
