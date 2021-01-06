@@ -46,7 +46,7 @@ Day 20: Created a rotating navigation bar
 
 Day 21: Hidden search widget
 
-Day 22: 
+Day 22: Created a blurry loading screen
 
 Day 23: 
 
