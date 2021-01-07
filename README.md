@@ -48,7 +48,7 @@ Day 21: Hidden search widget
 
 Day 22: Created a blurry loading screen
 
-Day 23: 
+Day 23: Perfected the rotating navigation bar and carried on going through some functions in the JavaScript book
 
 Day 24: 
 
