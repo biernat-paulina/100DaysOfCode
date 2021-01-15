@@ -50,19 +50,19 @@ Day 22: Created a blurry loading screen
 
 Day 23: Perfected the rotating navigation bar and carried on going through some functions in the JavaScript book
 
-Day 24: 
+Day 24: Mini project - Image carousel
 
-Day 25: 
+Day 25: Mini project - Mobile tab navigation  
 
-Day 26: 
+Day 26: Mini project - To do list 
 
-Day 27: 
+Day 27: Mini project - GitHub profile card, includes error handling
 
-Day 28: 
+Day 28: Mini project - Double heart click 
 
-Day 29: 
+Day 29: Mini project - Kinetic loader
 
-Day 30: 
+Day 30: Mini project - Toast notifications
 
 Day 31: 
 
