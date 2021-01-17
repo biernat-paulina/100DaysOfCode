@@ -64,9 +64,9 @@ Day 29: Mini project - Kinetic loader
 
 Day 30: Mini project - Toast notifications
 
-Day 31: 
+Day 31: Revisiting my old code and amending few things
 
-Day 32: 
+Day 32: Revisiting my old code and amending few things
 
 Day 33: 
 
